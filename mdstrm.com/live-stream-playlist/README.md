@@ -7,6 +7,7 @@ LEGALIDAD:
    *- Zapping
    *- VTR
    *- U otros
+   
 FUNCIONAMIENTO:
  - El archivo m3u8, puede fallar o no funcionar
  - A veces esta In-estable, o no estar autorizado
