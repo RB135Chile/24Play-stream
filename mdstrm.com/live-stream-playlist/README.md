@@ -4,8 +4,11 @@ LEGALIDAD:
  - En Chile, el Streaming es legal, pero la pirateria no.
  - Es mejor usar otro tipo de plataforma para que sea mas legal
  - Chile tiene plataformas IPTV (Streaming). Son como:
+   
    *- Zapping
+   
    *- VTR
+   
    *- U otros
    
 FUNCIONAMIENTO:
