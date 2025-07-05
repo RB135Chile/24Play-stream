@@ -1,10 +1,3 @@
-H        H     O O O O   L           A A A A
-H        H    O       O  L          A       A
-H--------H    O       O  L         A         A
-H        H    O       O  L         A A A A A A
-H        H     O O O O   L L L L   A         A
-______________________________________________
-
 HOLA, me alegra de que estes aca en mi repositorio de 24Play pero hay algunas cosas que debes considerar:
 
 LEGALIDAD:
